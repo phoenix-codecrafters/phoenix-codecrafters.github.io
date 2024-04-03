@@ -5,10 +5,10 @@
 Study Buddy is an application that allows users to:
 
   * Register an account
-  * JOIN /CREATE A GROUP
-  * SET UP YOUR PROFILE
-  * ADD YOUR CLASSES
-  * MESSENGER
+  * Join /create a group
+  * Set up your profile
+  * Add your classes
+  * Messenger
 
 ## Installation
 First, install Meteor.
