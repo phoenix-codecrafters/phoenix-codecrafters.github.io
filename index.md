@@ -1,4 +1,4 @@
-# Bowfolios
+# Study Buddy
 
 ## Table of contents
 
