@@ -1,6 +1,6 @@
 # Study Buddy...
 
-<img src="doc/landing-page.png">
+<img src="doc/landing-page.png">   /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
 Digits is an application that allows users to:
 
@@ -86,33 +86,34 @@ meteor npm run lint
 ### Landing Page
 User goes to landing page, logs in, requests study sesh.
 
-<img src="doc/landing-page.png">
+<img src="doc/landing-page.png">     /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
 ## Register
 If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
 
-<img src="doc/register.png">  
+<img src="doc/register.png">     /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
 ## Admin home page
 Admin goes to landing page, logs in, gets home page, edits site:
 
-<img src="doc/amin.png"> 
+<img src="doc/amin.png">    /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
 
 ## User profile page
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
 
-<img src="doc/user-page.png">
+<img src="doc/user-page.png">     /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
 ## Calendar page
 Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
 
-<img src="doc/calendar.png"> 
+<img src="doc/calendar.png">    /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
 
 ## Study Sesh page
 From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
-<img src="doc/sesh.png"> 
+
+<img src="doc/sesh.png">   /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
 ## Study session page
 User is notified of study sesh, responds. (Can they respond via text message?):
