@@ -2,16 +2,18 @@
 
 <img src="doc/landing-page.png">   /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
-Digits is an application that allows users to:
+Study Buddy is an application that allows users to:
 
-  * Register an account.
-  * Create and manage a set of contacts.
-  * Add a set of timestamped notes regarding their interactions with each contact.
+  * Register an account
+  * JOIN /CREATE A GROUP
+  * SET UP YOUR PROFILE
+  * ADD YOUR CLASSES
+  * MESSENGER
 
 ## Installation
 First, install Meteor.
 
-Second, download a copy of Digits. Note that Digits is a private repo and so you will need to request permission from the author to gain access to the repo.
+Second, download a copy of Study Buddy. Note that Study Buddy is a private repo and so you will need to request permission from the author to gain access to the repo.
 
 Third, cd into the app directory install the required libraries with:
 
