@@ -150,11 +150,11 @@ From the List Contacts page, the user can click the “Edit” link associated w
 ## External Links
 * [Team Contract](https://docs.google.com/document/d/19e88MkfUT4tdWFnGkv8DtAIhVrYXPxZpmWGlqF-Ryiw/edit?usp=sharing)
 
-## Meet the Amazing Coders! 
+## Meet the Developers
 
 ### Benjamin Banilower
-### Andrew Gibbons
-### Stephanie Castelblanco
+### Andrew Gibbons  
+### [Stephanie Castelblanco](https://github.com/stephanie-castelblanco)
 ### [Michelle Back](https://github.com/Michelle4929)
 ### [Kelly Tam](https://github.com/ktam808)
 
