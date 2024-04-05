@@ -156,7 +156,10 @@ From the List Contacts page, the user can click the “Edit” link associated w
 
 I'm a computer science student at the University of Hawaii Manoa, on track to graduate in 2025, with a focus on data science. I'm enthusiastic about exploring the realm of data to deepen my understanding of its optimal utilization. Eager to explore the possibilities in this field.
 
-### Andrew Gibbons  
+### [Andrew Gibbons](https://andrewgibbons575.github.io)
+
+I am a Mechanical Engineering major with a minor in computer science at the University of Hawaii at Manoa. I am currently on track to graduate in spring 2025. In my free time I enjoy spending as much time in the ocean as possible. 
+
 ### [Stephanie Castelblanco](https://stephanie-castelblanco.github.io/)
 ### [Michelle Back](https://github.com/Michelle4929)
 ### [Kelly Tam](https://github.com/ktam808)
