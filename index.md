@@ -18,6 +18,7 @@ StudyLink is an application that allows users to:
   * Leaderboard
   * View Calendar Study Sessions
 
+
 ## Installation
 First, install Meteor.
 
@@ -141,3 +142,6 @@ From the List Contacts page, the user can click the “Edit” link associated w
 
 ## Game mechanic page(s) (for example, a leaderboard?)
 <img src="doc/Page9.png">
+
+## External Links
+* [Team Contract](https://docs.google.com/document/d/19e88MkfUT4tdWFnGkv8DtAIhVrYXPxZpmWGlqF-Ryiw/edit?usp=sharing)
