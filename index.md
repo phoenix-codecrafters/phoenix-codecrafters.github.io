@@ -1,4 +1,4 @@
-# Study Buddy  /* replace with a new name; EduPals? LearnTogether? ........... */
+# Study Link 
 
 <img src="doc/landing-page.png">   /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
 
