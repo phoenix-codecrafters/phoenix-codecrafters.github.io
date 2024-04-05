@@ -8,7 +8,7 @@ StudyLink is simple and easy to use. It's a safe and supportive place where you 
 
 <img src="doc/Page1.png">  
 
-Study Buddy is an application that allows users to:
+StudyLink is an application that allows users to:
 
   * Register an account
   * Join /create a group
