@@ -2,7 +2,7 @@ title: StudyLink
 description: Connecting people for more efficient and personal studying.
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 github:
   is_project_page: true
   repository_url: https://github.com/phoenix-codecrafters/phoenix-codecrafters.github.io
