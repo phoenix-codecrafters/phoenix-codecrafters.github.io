@@ -156,6 +156,6 @@ From the List Contacts page, the user can click the “Edit” link associated w
 ### [Benjamin Banilower](https://banilowben.github.io/)
 ### [Andrew Gibbons](https://andrewgibbons575.github.io)
 ### [Stephanie Castelblanco](https://stephanie-castelblanco.github.io/)
-### [Michelle Back](https://github.com/Michelle4929)
-### [Kelly Tam](https://github.com/ktam808)
+### [Michelle Back](https://michelle4929.github.io/)
+### [Kelly Tam](https://ktam808.github.io/)
 
