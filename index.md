@@ -144,8 +144,8 @@ From the List Contacts page, the user can click the “Edit” link associated w
 <img src="doc/Page9.png">
 
 ## Project Board Pages
-
 * [M1 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/1)
+* [M2 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/2)
 
 ## External Links
 * [Team Contract](https://docs.google.com/document/d/19e88MkfUT4tdWFnGkv8DtAIhVrYXPxZpmWGlqF-Ryiw/edit?usp=sharing)
