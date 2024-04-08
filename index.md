@@ -6,9 +6,7 @@ Our web platform connects students with others who are studying the same things.
 
 StudyLink is simple and easy to use. It's a safe and supportive place where you can work together with your classmates and make studying more enjoyable.
 
-
 StudyLink is an application that allows users to:
-
   * Register an account
   * Join /create a group
   * Set up your profile
