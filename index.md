@@ -6,7 +6,6 @@ Our web platform connects students with others who are studying the same things.
 
 StudyLink is simple and easy to use. It's a safe and supportive place where you can work together with your classmates and make studying more enjoyable.
 
-<img src="doc/Page1.png">  
 
 StudyLink is an application that allows users to:
 
@@ -135,10 +134,6 @@ Clicking on the List Contacts link brings up a page that lists all of the contac
 From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
 
 <img src="doc/Page8.png">  
-
-### Create Study Sesh Page
-
-<img src="doc/Page8.png">
 
 ## Game mechanic page(s) (for example, a leaderboard?)
 <img src="doc/Page9.png">
