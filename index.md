@@ -143,7 +143,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
 <img src="doc/LeaderboardPage.png">
 
 ## Deployment
-* [Application Deployment Link](http://24.199.125.135/)
+* [Application Deployment Link](http://209.38.148.35/)
 
 ## Project Board Pages
 * [M1 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/1)
