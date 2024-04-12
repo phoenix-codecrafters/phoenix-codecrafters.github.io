@@ -126,7 +126,7 @@ Admin goes to landing page, logs in, gets home page, edits site:
 ### User profile page
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
 
-<img src="doc/Page5.png">    
+<img src="doc/ProfilePage.png">    
 
 ### Calendar page
 Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
