@@ -137,7 +137,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
 ## Game mechanic page(s) (for example, a leaderboard?)
 <img src="doc/Page9.png">
 
-# Deployment
+## Deployment
 * [Application Deployment Link](http://24.199.125.135/)
 
 ## Project Board Pages
