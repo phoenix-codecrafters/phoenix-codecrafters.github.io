@@ -140,7 +140,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
 <img src="doc/Page8.png">  
 
 ## Game mechanic page(s) (for example, a leaderboard?)
-<img src="doc/Page9.png">
+<img src="doc/LeaderboardPage.png">
 
 ## Deployment
 * [Application Deployment Link](http://24.199.125.135/)
