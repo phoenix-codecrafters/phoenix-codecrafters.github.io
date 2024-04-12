@@ -95,27 +95,32 @@ meteor npm run lint
 ### Landing Page
 User goes to landing page, logs in, requests study sesh:
 
-<img src="doc/Page1.png">    
+<img src="doc/LandingPage.png">   
+
+### About Us Page
+User can go to About Us page so that they are able to learn about the developers of website:
+
+<img src="doc/AboutUsPage.png"> 
 
 ### Login Page
 User or Admin can Login with their existing account by clicking on “Login”, then entering their username/email and password:
 
-<img src="doc/Page2.png">    
+<img src="doc/LoginPage.png">    
 
 ### Register
 If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
 
-<img src="doc/Page3.png">    
+<img src="doc/RegisterPage.png">    
 
 ### User home page
 User goes to landing page, logs in, gets home page, edits site:
 
-<img src="doc/Page4.png">
+<img src="doc/UserLandingPage.png">
 
 ### Admin home page
 Admin goes to landing page, logs in, gets home page, edits site:
 
-<img src="doc/Page6.png">   
+<img src="doc/AdminLandingPage.png">   
 
 
 ### User profile page
