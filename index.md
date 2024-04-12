@@ -137,6 +137,9 @@ From the List Contacts page, the user can click the “Edit” link associated w
 ## Game mechanic page(s) (for example, a leaderboard?)
 <img src="doc/Page9.png">
 
+# Deployment
+* [Application Deployment Link](http://24.199.125.135/)
+
 ## Project Board Pages
 * [M1 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/1)
 * [M2 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/2)
