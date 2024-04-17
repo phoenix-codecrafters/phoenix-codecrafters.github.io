@@ -25,25 +25,24 @@ These instructions will guide you through the process of installing and running 
 
 2. Second, download a copy of Study Buddy. You should note that you may need to request permission from the authors in order to access the repo.
    
-4. Third, cd into the app directory install the required libraries with:
+3. To proceed, cd into the app directory. Once you are inside the directory, install the necessary libraries by following the instructions provided.
 
 <p> <code> meteor npm install </code></p>
 
 
-```
 
 Once the libraries are installed, you can run the application by invoking:
 
-```
-$ meteor npm run start
 
-```
+meteor npm run start
+
+
 
 The first time you run the app, it will create some default users and data. Here is the output:
 
-```
-meteor npm run start
 
+meteor npm run start
+```
 > meteor-application-template-react@ start /Users/philipjohnson/github/philipmjohnson/digits/app
 > meteor --no-release-check --settings ../config/settings.development.json
 
@@ -59,7 +58,8 @@ I20180305-18:06:02.804(-10)?   Adding: Johnson (john@foo.com)
 I20180305-18:06:02.804(-10)?   Adding: Casanova (john@foo.com)
 I20180305-18:06:02.804(-10)?   Adding: Binsted (admin@foo.com)
 => Started your app.
-
+```
+```
 => App running at: http://localhost:3000/
 W20180305-18:06:02.805(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
 W20180305-18:06:02.805(-10)? (STDERR) While this implementation will work correctly, it is known to be
