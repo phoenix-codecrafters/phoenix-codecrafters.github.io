@@ -17,26 +17,18 @@ StudyLink is an application that allows users to:
   * View Calendar Study Sessions
 
 # Developer Guide 
-
+`````````
 ## Installation
 These instructions will guide you through the process of installing and running the application on your local computer.
 
-1. In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
+1. First, in order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
 
-2. v
-3. v
-4. v
-5. v
-6. 
+2. Second, download a copy of Study Buddy. You should note that you may need to request permission from the authors in order to access the repo.
+   
+4. Third, cd into the app directory install the required libraries with:
 
-First, install Meteor.
+<p> <code> meteor npm install </code></p>
 
-Second, download a copy of Study Buddy. Note that Study Buddy is a private repo and so you will need to request permission from the author to gain access to the repo.
-
-Third, cd into the app directory install the required libraries with:
-
-```
-$ meteor npm install
 
 ```
 
