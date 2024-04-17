@@ -16,8 +16,19 @@ StudyLink is an application that allows users to:
   * Leaderboard
   * View Calendar Study Sessions
 
+# Developer Guide 
 
 ## Installation
+The following steps will walk you through installing and running the application locally. 
+
+1. In order
+
+2. v
+3. v
+4. v
+5. v
+6. 
+
 First, install Meteor.
 
 Second, download a copy of Study Buddy. Note that Study Buddy is a private repo and so you will need to request permission from the author to gain access to the repo.
