@@ -17,7 +17,7 @@ StudyLink is an application that allows users to:
   * View Calendar Study Sessions
 
 # Developer Guide 
-`````````
+
 ## Installation
 These instructions will guide you through the process of installing and running the application on your local computer.
 
