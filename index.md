@@ -19,9 +19,9 @@ StudyLink is an application that allows users to:
 # Developer Guide 
 
 ## Installation
-The following steps will walk you through installing and running the application locally. 
+These instructions will guide you through the process of installing and running the application on your local computer.
 
-1. In order
+1. In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
 
 2. v
 3. v
