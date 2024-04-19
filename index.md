@@ -117,6 +117,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
 ## Project Board Pages
 * [M1 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/1)
 * [M2 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/2)
+* [M3 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/4/views/1)
 
 ## External Links
 * [Team Contract](https://docs.google.com/document/d/19e88MkfUT4tdWFnGkv8DtAIhVrYXPxZpmWGlqF-Ryiw/edit?usp=sharing)
