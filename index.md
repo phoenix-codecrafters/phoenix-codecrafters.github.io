@@ -66,57 +66,60 @@ If all goes well, the template application will appear at [http://localhost:3000
 meteor npm run lint
 ```
 
-## User Interface Walkthrough
+## User-Interface Guide
 
 ### Landing Page
-User goes to landing page, logs in, requests study sesh:
+The landing page serves as the entry point for users, where they can log in, register, learn about the developers, and read about the rules and regulations that they must adhere to when using the site. 
 
 <img src="doc/LandingPage.png">   
 
 ### About Us Page
-User can go to About Us page so that they are able to learn about the developers of website:
+The About us page offers users the opportunity to learn more about the developers behind this site. They also have the option to view each of the developers Github page and professional portfolios. 
 
 <img src="doc/AboutUsPage.png"> 
 
 ### Login Page
-User or Admin can Login with their existing account by clicking on “Login”, then entering their username/email and password:
+The login page enables users, both regular users and administrators, to access their accounts securely. Users are prompted to enter their credentials, ensuring authentication before accessing the system.
 
 <img src="doc/LoginPage.png">    
 
 ### Register
-If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
+For new users, who don’t have an account yet, the register page offers a straightforward process to sign up. By providing necessary details, users can create their accounts and gain access to the system. 
 
 <img src="doc/RegisterPage.png">    
 
 ### User home page
-User goes to landing page, logs in, gets home page, edits site:
+Upon successful login, users are directed to their personalized home page. Here, they can manage their account settings, access study material, view their calendar, and engage with other features tailor to their needs. 
 
 <img src="doc/UserLandingPage.png">
 
 ### Admin home page
-Admin goes to landing page, logs in, gets home page, edits site:
+Administrators are greeted with a dedicated homepage upon login. This page grants access to administrative tools, allogin them to manage users, content, and system configurations effectively. 
 
 <img src="doc/AdminLandingPage.png">   
 
 
 ### User profile page
-After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
+The user profile page provides users with a centralized hub to view and manage their personal information. It offers options to edit profile details, manage their profile pictures, and customize their experience. 
 
 <img src="doc/ProfilePage.png">    
 
 ### Calendar page
-Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
+The calendar page offers users a visual representation of their study schedule or upcoming events Users Can view, add, or edit events, helping them stay organized and on track with their goals. 
 
 <img src="doc/CalendarPage.png">   
 
 
 ### Study Sesh page
-From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
+Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly. 
 
 <img src="doc/Page8.png">  
 
 ## Game mechanic page(s) (for example, a leaderboard?)
+The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users. 
+
 <img src="doc/LeaderboardPage.png">
+
 
 ## Deployment
 * [Application Deployment Link](http://209.38.148.35/)
