@@ -100,7 +100,7 @@ After successfully logging in, the system takes you to your home page. It is jus
 ### Calendar page
 Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
 
-<img src="doc/Page7.png">   
+<img src="doc/CalendarPage.png">   
 
 
 ### Study Sesh page
