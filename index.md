@@ -16,49 +16,56 @@ StudyLink is an application that allows users to:
   * Leaderboard
   * View Calendar Study Sessions
 
-# Developer Guide 
+## Developer Guide 
 
 ## Installation
-These instructions will guide you through the process of installing and running the application on your local computer.
+The instructions below will guide you through the process of downloading, installing, running, and modifying the application on your local device.
 
-1. In order to begin using the application you will need to <a href="https://www.meteor.com/install"> install Meteor </a>
+1. In order to begin using the application you will need to install<a href="https://www.meteor.com/install"> Meteor.</a>
 
-2. Next, you will need to <a href="https://github.com/phoenix-codecrafters/StudyLink"> download </a> a copy ofStudy Link.
-You should note that you may need to request permission from the authors in order to access the repo.
+2. Next, you will need to clone our repository<a href="https://github.com/phoenix-codecrafters/StudyLink"> StudyLink </a>.
 
-3. Then, in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows:
-    <p>
-      <code> meteor npm install </code>
-    </p>
+3. Using any IDE of your choice (our team used IntelliJ IDEA), in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows:
+```
+meteor npm install
+```
  
 4. Once the libraries are installed, you can run the application by invoking:
-    <p>
-      <code>meteor npm run start</code>
-    </p>
+```
+meteor npm run start
+```
 
-5. After the app runs for the first time, it will create some default data and users. The output should look as follows:
-    <p>
-      <img src="/images/meteorfirstrun.JPG" alt="meteor first run image" width="470" height="315">
+5. The first time you run the app, it will create some default users and data. Here is the output:
 
-    </p>
+```
+ meteor npm run start 
 
- 
-6. If there are no errors, the template application will appear at <a href="http://localhost:3000/">http://localhost:3000/</a>. You can then login by using one of the default accounts at <a href="https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json">settings.development.json</a>.
+> meteor-application-template-react@ start /Users/carletonmoore/GitHub/ICS314/meteor-application-template-react/app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
 
-7.You can also use ESLint in the imports directory to check for general errors by using:
-      <code>
-        meteor npm run lint
-      </code>
+[[[[[ ~/GitHub/StudyLink/app ]]]]]
 
+=> Started proxy.                             
+=> Started HMR server.                        
+=> Started MongoDB.                           
+I20220529-12:09:18.384(-10)? Creating the default user(s)
+I20220529-12:09:18.389(-10)?   Creating user admin@foo.com.
+I20220529-12:09:18.453(-10)?   Creating user john@foo.com.
+=> Started your app.
 
+=> App running at: http://localhost:3000/
+```
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
 
  You can login using the credentials in settings.development.json, or else register a new account.
 
-Lastly, you can run ESLint over the code in the imports/ directory with:
+6. Lastly, you can run ESLint over the code in the imports/ directory with:
 
 ```
 meteor npm run lint
 ```
+
 ## User Interface Walkthrough
 
 ### Landing Page
