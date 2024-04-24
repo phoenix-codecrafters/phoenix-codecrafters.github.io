@@ -60,7 +60,13 @@ If all goes well, the template application will appear at [http://localhost:3000
 
  You can login using the credentials in settings.development.json, or else register a new account.
 
-6. Lastly, you can run ESLint over the code in the imports/ directory with:
+6. Install fullcalendar to access calendar features:
+
+ ```
+meteor npm install --save @fullcalendar/core @fullcalendar/daygrid
+```
+
+7. Lastly, you can run ESLint over the code in the imports/ directory with:
 
 ```
 meteor npm run lint
