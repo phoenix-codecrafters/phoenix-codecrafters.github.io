@@ -76,7 +76,12 @@ The landing page serves as the entry point for users, where they can log in, reg
 ### About Us Page
 The About us page offers users the opportunity to learn more about the developers behind this site. They also have the option to view each of the developers Github page and professional portfolios. 
 
-<img src="doc/AboutUsPage.png"> 
+<img src="doc/AboutUsPage.png">
+
+### Rules and Regulations Page
+The Rules and Regulations page offers a list of rules and regulations that the users must adhere to while using StudyLink. 
+
+<img src="doc/RuleAndRegulationPage.png">
 
 ### Login Page
 The login page enables users, both regular users and administrators, to access their accounts securely. Users are prompted to enter their credentials, ensuring authentication before accessing the system.
@@ -102,7 +107,7 @@ Administrators are greeted with a dedicated homepage upon login. This page grant
 ### User profile page
 The user profile page provides users with a centralized hub to view and manage their personal information. It offers options to edit profile details, manage their profile pictures, and customize their experience. 
 
-<img src="doc/ProfilePage.png">    
+<img src="doc/MyProfilePage.png">
 
 ### Calendar page
 The calendar page offers users a visual representation of their study schedule or upcoming events Users Can view, add, or edit events, helping them stay organized and on track with their goals. 
@@ -113,12 +118,12 @@ The calendar page offers users a visual representation of their study schedule o
 ### Study Sesh page
 Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly. 
 
-<img src="doc/Page8.png">  
+<img src="doc/RequestSessionPage.png">
 
 ## Game mechanic page(s) (for example, a leaderboard?)
 The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users. 
 
-<img src="doc/LeaderboardPage.png">
+<img src="doc/LeaderBoardPage.png">
 
 
 ## Deployment
