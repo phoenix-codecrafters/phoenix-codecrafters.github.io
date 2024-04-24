@@ -1,132 +1,143 @@
 # StudyLink
 
-<img src="doc/landing-page.png">   /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
+## Overview 
+Nowadays, it's pretty rare to see students interacting face-to-face with their peers. It's tough to ask for help when everyone else seems to be doing just fine. But have no fear, because StudyLink is here to help!
 
-Study Buddy is an application that allows users to:
+Our web platform connects students with others who are studying the same things. You can collaborate on assignments, projects, and exam prep with your buddies. With features like "create" and "attend," scheduling and joining study sessions has never been easier. Plus, you can keep track of past, present, and future study sessions, and see who else is involved.
 
+StudyLink is simple and easy to use. It's a safe and supportive place where you can work together with your classmates and make studying more enjoyable.
+
+StudyLink is an application that allows users to:
   * Register an account
   * Join /create a group
   * Set up your profile
   * Add your classes
-  * Messenger
+  * Create Study Sessions
+  * Leaderboard
+  * View Calendar Study Sessions
+
+## Developer Guide 
 
 ## Installation
-First, install Meteor.
+The instructions below will guide you through the process of downloading, installing, running, and modifying the application on your local device.
 
-Second, download a copy of Study Buddy. Note that Study Buddy is a private repo and so you will need to request permission from the author to gain access to the repo.
+1. In order to begin using the application you will need to install<a href="https://www.meteor.com/install"> Meteor.</a>
 
-Third, cd into the app directory install the required libraries with:
+2. Next, you will need to clone our repository<a href="https://github.com/phoenix-codecrafters/StudyLink"> StudyLink </a>.
 
+3. Using any IDE of your choice (our team used IntelliJ IDEA), in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows:
 ```
-$ meteor npm install
-
+meteor npm install
 ```
-
-Once the libraries are installed, you can run the application by invoking:
-
-```
-$ meteor npm run start
-
-```
-
-The first time you run the app, it will create some default users and data. Here is the output:
-
+ 
+4. Once the libraries are installed, you can run the application by invoking:
 ```
 meteor npm run start
+```
 
-> meteor-application-template-react@ start /Users/philipjohnson/github/philipmjohnson/digits/app
-> meteor --no-release-check --settings ../config/settings.development.json
+5. The first time you run the app, it will create some default users and data. Here is the output:
 
-[[[[[ ~/github/philipmjohnson/digits/app ]]]]]
+```
+ meteor npm run start 
+
+> meteor-application-template-react@ start /Users/carletonmoore/GitHub/ICS314/meteor-application-template-react/app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ ~/GitHub/StudyLink/app ]]]]]
 
 => Started proxy.                             
+=> Started HMR server.                        
 => Started MongoDB.                           
-I20180305-18:06:02.764(-10)? Creating the default user(s)
-I20180305-18:06:02.803(-10)?   Creating user admin@foo.com.
-I20180305-18:06:02.803(-10)?   Creating user john@foo.com.
-I20180305-18:06:02.804(-10)? Creating default contacts.
-I20180305-18:06:02.804(-10)?   Adding: Johnson (john@foo.com)
-I20180305-18:06:02.804(-10)?   Adding: Casanova (john@foo.com)
-I20180305-18:06:02.804(-10)?   Adding: Binsted (admin@foo.com)
+I20220529-12:09:18.384(-10)? Creating the default user(s)
+I20220529-12:09:18.389(-10)?   Creating user admin@foo.com.
+I20220529-12:09:18.453(-10)?   Creating user john@foo.com.
 => Started your app.
 
 => App running at: http://localhost:3000/
-W20180305-18:06:02.805(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
-W20180305-18:06:02.805(-10)? (STDERR) While this implementation will work correctly, it is known to be
-W20180305-18:06:02.806(-10)? (STDERR) approximately three times slower than the native implementation.
-W20180305-18:06:02.806(-10)? (STDERR) In order to use the native implementation instead, run
-W20180305-18:06:02.806(-10)? (STDERR) 
-W20180305-18:06:02.806(-10)? (STDERR)   meteor npm install --save bcrypt
-W20180305-18:06:02.806(-10)? (STDERR) 
-W20180305-18:06:02.806(-10)? (STDERR) in the root directory of your application.
 ```
 
-Note regarding bcrypt warning. You will also get the following message when you run this application:
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
 
-```
-Note: you are using a pure-JavaScript implementation of bcrypt.
-While this implementation will work correctly, it is known to be
-approximately three times slower than the native implementation.
-In order to use the native implementation instead, run
+ You can login using the credentials in settings.development.json, or else register a new account.
 
-  meteor npm install --save bcrypt
-
-in the root directory of your application.
-```
-
-On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
-
-If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in settings.development.json, or else register a new account.
-
-Lastly, you can run ESLint over the code in the imports/ directory with:
+6. Lastly, you can run ESLint over the code in the imports/ directory with:
 
 ```
 meteor npm run lint
 ```
-## User Interface Walkthrough
+
+## User-Interface Guide
 
 ### Landing Page
-User goes to landing page, logs in, requests study sesh:
+The landing page serves as the entry point for users, where they can log in, register, learn about the developers, and read about the rules and regulations that they must adhere to when using the site. 
 
-<img src="doc/landing-page.png">     /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
+<img src="doc/LandingPage.png">   
+
+### About Us Page
+The About us page offers users the opportunity to learn more about the developers behind this site. They also have the option to view each of the developers Github page and professional portfolios. 
+
+<img src="doc/AboutUsPage.png"> 
 
 ### Login Page
-User or Admin can Login with their existing account by clicking on “Login”, then entering their username/email and password:
+The login page enables users, both regular users and administrators, to access their accounts securely. Users are prompted to enter their credentials, ensuring authentication before accessing the system.
 
-<img src="doc/register.png">     /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
+<img src="doc/LoginPage.png">    
 
 ### Register
-If you do not yet have an account on the system, you can register by clicking on “Login”, then “Sign Up”:
+For new users, who don’t have an account yet, the register page offers a straightforward process to sign up. By providing necessary details, users can create their accounts and gain access to the system. 
 
-<img src="doc/register.png">     /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
+<img src="doc/RegisterPage.png">    
+
+### User home page
+Upon successful login, users are directed to their personalized home page. Here, they can manage their account settings, access study material, view their calendar, and engage with other features tailor to their needs. 
+
+<img src="doc/UserLandingPage.png">
 
 ### Admin home page
-Admin goes to landing page, logs in, gets home page, edits site:
+Administrators are greeted with a dedicated homepage upon login. This page grants access to administrative tools, allogin them to manage users, content, and system configurations effectively. 
 
-<img src="doc/amin.png">    /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
+<img src="doc/AdminLandingPage.png">   
 
 
 ### User profile page
-After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
+The user profile page provides users with a centralized hub to view and manage their personal information. It offers options to edit profile details, manage their profile pictures, and customize their experience. 
 
-<img src="doc/user-page.png">     /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
+<img src="doc/ProfilePage.png">    
 
 ### Calendar page
-Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
+The calendar page offers users a visual representation of their study schedule or upcoming events Users Can view, add, or edit events, helping them stay organized and on track with their goals. 
 
-<img src="doc/calendar.png">    /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
+<img src="doc/CalendarPage.png">   
 
 
 ### Study Sesh page
-From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
+Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly. 
 
-<img src="doc/sesh.png">   /* replace for  screen shots of the mockup pages we plan to use as a basis for our final project. */
-
-### Study session page
-User is notified of study sesh, responds. (Can they respond via text message?):
-
-<img src="doc/study.png"> 
-<img src="doc/study.png"> 
+<img src="doc/Page8.png">  
 
 ## Game mechanic page(s) (for example, a leaderboard?)
+The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users. 
+
+<img src="doc/LeaderboardPage.png">
+
+
+## Deployment
+* [Application Deployment Link](http://209.38.148.35/)
+
+## Project Board Pages
+* [M1 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/1)
+* [M2 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/2)
+* [M3 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/4/views/1)
+
+## External Links
+* [Team Contract](https://docs.google.com/document/d/19e88MkfUT4tdWFnGkv8DtAIhVrYXPxZpmWGlqF-Ryiw/edit?usp=sharing)
+
+
+## Meet the Developers
+
+### [Benjamin Banilower](https://banilowben.github.io/)
+### [Andrew Gibbons](https://andrewgibbons575.github.io)
+### [Stephanie Castelblanco](https://stephanie-castelblanco.github.io/)
+### [Michelle Back](https://michelle4929.github.io/)
+### [Kelly Tam](https://ktam808.github.io/)
 
