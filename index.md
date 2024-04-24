@@ -140,9 +140,9 @@ The game mechanics page, such as the leaderboard, adds an element of gamificatio
 
 ## Meet the Developers
 
-### [Benjamin Banilower](https://banilowben.github.io/)
-### [Andrew Gibbons](https://andrewgibbons575.github.io)
-### [Stephanie Castelblanco](https://stephanie-castelblanco.github.io/)
-### [Michelle Back](https://michelle4929.github.io/)
-### [Kelly Tam](https://ktam808.github.io/)
+ [Benjamin Banilower](https://banilowben.github.io/)
+ [Andrew Gibbons](https://andrewgibbons575.github.io)
+ [Stephanie Castelblanco](https://stephanie-castelblanco.github.io/)
+ [Michelle Back](https://michelle4929.github.io/)
+ [Kelly Tam](https://ktam808.github.io/)
 
