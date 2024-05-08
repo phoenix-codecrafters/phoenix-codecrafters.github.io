@@ -79,9 +79,9 @@ The About us page offers users the opportunity to learn more about the developer
 <img src="doc/AboutUsPage.png">
 
 ### Rules and Regulations Page
-The Rules and Regulations page offers a list of rules and regulations that the users must adhere to while using StudyLink. 
+The Rules and Regulations page offers a list of rules and regulations that the users must adhere to while using StudyLink.
 
-<img src="doc/RuleAndRegulationPage.png">
+<img src="doc/RulesAndRegulationsPage.png">
 
 ### Login Page
 The login page enables users, both regular users and administrators, to access their accounts securely. Users are prompted to enter their credentials, ensuring authentication before accessing the system.
@@ -98,32 +98,44 @@ Upon successful login, users are directed to their personalized home page. Here,
 
 <img src="doc/UserLandingPage.png">
 
+### User profile page
+The user profile page provides users with a centralized hub to view and manage their personal information. It offers options to edit profile details, manage their profile pictures, and customize their experience.
+
+<img src="doc/ProfilePage.png">
+
+### Calendar page
+The calendar page offers users a visual representation of their study schedule or upcoming events Users Can view, add, or edit events, helping them stay organized and on track with their goals.
+
+<img src="doc/CalendarPage.png">
+
+### Add Study Sesh Page
+
+<img src="AddStudySessionPage.png">
+
+### Study Sesh page
+Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly.
+
+<img src="doc/ListSessionsPage.png">
+
+## Game mechanic page(s) (for example, a leaderboard?)
+The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users.
+
+<img src="doc/LeaderBoardPage.png">
+
 ### Admin home page
 Administrators are greeted with a dedicated homepage upon login. This page grants access to administrative tools, allogin them to manage users, content, and system configurations effectively. 
 
-<img src="doc/AdminLandingPage.png">   
+<img src="doc/AdminLandingPage.png">
+
+### Admin List Sessions Page
 
 
-### User profile page
-The user profile page provides users with a centralized hub to view and manage their personal information. It offers options to edit profile details, manage their profile pictures, and customize their experience. 
+<img src="doc/AdminListAllSessionsPage.png">
 
-<img src="doc/MyProfilePage.png">
-
-### Calendar page
-The calendar page offers users a visual representation of their study schedule or upcoming events Users Can view, add, or edit events, helping them stay organized and on track with their goals. 
-
-<img src="doc/CalendarPage.png">   
+### Admin List Profile Page
 
 
-### Study Sesh page
-Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly. 
-
-<img src="doc/RequestSessionPage.png">
-
-## Game mechanic page(s) (for example, a leaderboard?)
-The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users. 
-
-<img src="doc/LeaderBoardPage.png">
+<img src="doc/AdminListAllProfilePage.png">
 
 
 ## Deployment
