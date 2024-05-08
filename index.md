@@ -18,7 +18,6 @@ StudyLink is an application that allows users to:
 
 ## Developer Guide 
 
-## Installation
 The instructions below will guide you through the process of downloading, installing, running, and modifying the application on your local device.
 
 1. In order to begin using the application you will need to install<a href="https://www.meteor.com/install"> Meteor.</a>
@@ -136,6 +135,22 @@ In this page users can view and edit study sessions which they own.
 
 <img src="doc/OwnedStudySessions.png">
 
+## Community Feedback
+
+After having five community members try out our application, we gathered valuable insights and feedback on its usability and functionality. Here are the key findings from the feedback:<br>
+
+**Positive Feedback**:
+   - Website has good functionality and flow.
+   - Application would be useful for students.
+   - Easy on the eyes, visually appealing.
+   - Appreciates the concept of application, providing support for those seeking help.
+
+ **Negatvie Feedback**:
+   - Add the Rules and Regulation page into user page as well.
+   - Provide users to upload their image file(.jpeg, .png, etc) for their profile picture instead of just a link.
+   - Possibly adding a FAQ section for common asked questions of students.
+
+Overall, the responses were positive, with users appreciating the usefulness of the application as well as the visuals provided.
 
 ## Deployment
 * [Application Deployment Link](http://209.38.148.35/)
