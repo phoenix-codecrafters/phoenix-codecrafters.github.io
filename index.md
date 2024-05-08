@@ -144,7 +144,7 @@ After having five community members try out our application, we gathered valuabl
    - Easy on the eyes, visually appealing.
    - Appreciates the concept of application, providing support for those seeking help.
 
- **Negatvie Feedback**:
+ **Possible Improvements**:
    - Add the Rules and Regulation page into user page as well.
    - Provide users to upload their image file(.jpeg, .png, etc) for their profile picture instead of just a link.
    - Possibly adding a FAQ section for common asked questions of students.
