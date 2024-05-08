@@ -144,6 +144,10 @@ The Admin List Profile Page offers administrators visibility into all user profi
 
 <img src="doc/AdminListAllProfilePage.png">
 
+### Sign Out Page
+The Sign Out Page is the section within the StudyLink platform where users can securely log out of their accounts. Once confirmed, the user's session is terminated, and they are logged out of the platform. This page ensures the protection of user accounts and privacy by allowing users to securely end their session when they have finished using the platform. It serves as a fundamental feature in maintaining the security and integrity of the StudyLink application. It also has links back to the landing page and login page. 
+<img src="doc/SignOutPage.png">
+
 
 ## Community Feedback
 
