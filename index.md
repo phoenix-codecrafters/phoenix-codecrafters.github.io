@@ -1,4 +1,4 @@
-#StudyLink
+# StudyLink
 
 ## Overview 
 Nowadays, it's pretty rare to see students interacting face-to-face with their peers. It's tough to ask for help when everyone else seems to be doing just fine. But have no fear, because StudyLink is here to help!
@@ -82,7 +82,7 @@ The landing page serves as the entry point for users, where they can log in, reg
 ### About Us Page
 The About us page offers users the opportunity to learn more about the developers behind this site. They also have the option to view each of the developers Github page and professional portfolios. 
 
-<img src="doc/AboutUs.png">
+<img src="doc/AboutUsPage.png">
 
 ### Rules and Regulations Page
 The Rules and Regulations page offers a list of rules and regulations that the users must adhere to while using StudyLink.
@@ -104,61 +104,46 @@ Upon successful login, users are directed to their personalized home page. Here,
 
 <img src="doc/UserLandingPage.png">
 
-### User profile page
-The user profile page provides users with a centralized hub to view and manage their personal information. It offers options to edit profile details, manage their profile pictures, and customize their experience.
-
-<img src="doc/ProfilePage.png">
-
 ### Calendar page
 The calendar page offers users a visual representation of their study schedule or upcoming events Users Can view, add, or edit events, helping them stay organized and on track with their goals.
 
 <img src="doc/CalendarPage.png">
 
 ### Add Study Sesh Page
+The Add Study Sesh page is where users can initiate new study sessions within the StudyLink platform. Here, users input essential details such as the session title, date, time, location, and possibly a brief description.
 
-<img src="AddStudySessionPage.png">
+<img src="doc/AddStudySessionPage.png">
 
-### Study Sesh page
-Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly.
+### Owned Study Sesh page
+The Owned Study Sesh page provides users with a centralized hub to manage the study sessions they've created or intend to attend. Within this section, users can view a comprehensive list of their scheduled sessions, along with pertinent details such as session title, date, time, and participants. Users have the flexibility to edit or delete their sessions as needed, ensuring seamless coordination and organization of study activities. 
 
 <img src="doc/ListSessionsPage.png">
 
-## Game mechanic page(s) (for example, a leaderboard?)
+### Leaderboard Page
 The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users.
 
 <img src="doc/LeaderBoardPage.png">
 
+### User profile page
+The user profile page provides users with a centralized hub to view and manage their personal information. It offers options to edit profile details, manage their profile pictures, and customize their experience.
+
+<img src="doc/ProfilePage.png">
+
 ### Admin home page
-Administrators are greeted with a dedicated homepage upon login. This page grants access to administrative tools, allogin them to manage users, content, and system configurations effectively. 
+Administrators are greeted with a dedicated homepage upon login. This page grants access to administrative tools, allowing them to manage users, content, and system configurations effectively. 
 
 <img src="doc/AdminLandingPage.png">
 
 ### Admin List Sessions Page
-
+The Admin List Sessions Page presents a list of all sessions created by students. This feature enables administrators to monitor study session activities across the platform. By having access to session details such as date, time, and participants, administrators can ensure adherence to platform guidelines and intervene if necessary. 
 
 <img src="doc/AdminListAllSessionsPage.png">
 
 ### Admin List Profile Page
+The Admin List Profile Page offers administrators visibility into all user profiles within the system. This includes information such as user names, email addresses, and possibly other relevant details. Having access to this comprehensive list allows administrators to manage user accounts effectively. They can address any issues related to user behavior, resolve account-related inquiries, and maintain the overall integrity of the platform.
 
-
-<<<<<<< HEAD
 <img src="doc/AdminListAllProfilePage.png">
-=======
-### Study Sesh page
-Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly. 
 
-<img src="doc/AddStudySession.png">
-
-## Game mechanic page(s) (for example, a leaderboard?)
-The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users. 
-
-<img src="doc/Leaderboard.png">
->>>>>>> 22e4e6b3d6b607b5e4bb24de30784e930082a7c6
-
-### Owned Study Sessions
-In this page users can view and edit study sessions which they own. 
-
-<img src="doc/OwnedStudySessions.png">
 
 ## Community Feedback
 
