@@ -35,7 +35,6 @@ meteor npm run start
 ```
 
 5. The first time you run the app, it will create some default users and data. Here is the output:
-
 ```
  meteor npm run start 
 
@@ -54,19 +53,15 @@ I20220529-12:09:18.453(-10)?   Creating user john@foo.com.
 
 => App running at: http://localhost:3000/
 ```
-
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
 
  You can login using the credentials in settings.development.json, or else register a new account.
 
 6. Install fullcalendar to access calendar features:
-
- ```
-meteor npm install --save @fullcalendar/core @fullcalendar/daygrid
 ```
-
+meteor npm install --save @fullcalendar/core @fullcalendar/daygrid
+``` 
 7. Lastly, you can run ESLint over the code in the imports/ directory with:
-
 ```
 meteor npm run lint
 ```
