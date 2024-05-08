@@ -124,12 +124,12 @@ The calendar page offers users a visual representation of their study schedule o
 ### Study Sesh page
 Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly. 
 
-<img src="doc/RequestSessionPage.png">
+<img src="doc/AddStudySession.png">
 
 ## Game mechanic page(s) (for example, a leaderboard?)
 The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users. 
 
-<img src="doc/LeaderBoardPage.png">
+<img src="doc/Leaderboard.png">
 
 
 ## Deployment
