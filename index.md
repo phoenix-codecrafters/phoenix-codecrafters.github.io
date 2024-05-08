@@ -1,4 +1,4 @@
-# StudyLink
+#StudyLink
 
 ## Overview 
 Nowadays, it's pretty rare to see students interacting face-to-face with their peers. It's tough to ask for help when everyone else seems to be doing just fine. But have no fear, because StudyLink is here to help!
@@ -18,24 +18,25 @@ StudyLink is an application that allows users to:
 
 ## Developer Guide 
 
-## Installation
 The instructions below will guide you through the process of downloading, installing, running, and modifying the application on your local device.
 
-1. In order to begin using the application you will need to install<a href="https://www.meteor.com/install"> Meteor.</a>
+* First, in order to begin using the application you will need to install<a href="https://www.meteor.com/install"> Meteor.</a>
 
-2. Next, you will need to clone our repository<a href="https://github.com/phoenix-codecrafters/StudyLink"> StudyLink </a>.
+* Second, you will need to clone our repository<a href="https://github.com/phoenix-codecrafters/StudyLink"> StudyLink </a>.
 
-3. Using any IDE of your choice (our team used IntelliJ IDEA), in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows:
+* Third, using any IDE of your choice (our team used IntelliJ IDEA), in the command prompt you will need to cd into the app directory (within the code-directory file) and install the Meteor library as follows:
+   
 ```
 meteor npm install
 ```
  
-4. Once the libraries are installed, you can run the application by invoking:
+* Fourth, once the libraries are installed, you can run the application by invoking:
+
 ```
 meteor npm run start
 ```
 
-5. The first time you run the app, it will create some default users and data. Here is the output:
+* Fifth, the first time you run the app, it will create some default users and data. Here is the output:
 
 ```
  meteor npm run start 
@@ -57,10 +58,15 @@ I20220529-12:09:18.453(-10)?   Creating user john@foo.com.
 ```
 
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
+You can login using the credentials in settings.development.json, or else register a new account.
 
- You can login using the credentials in settings.development.json, or else register a new account.
+* Sixth, install fullcalendar to access calendar features:
 
-6. Lastly, you can run ESLint over the code in the imports/ directory with:
+```
+meteor npm install --save @fullcalendar/core @fullcalendar/daygrid
+``` 
+
+* Seventh, lastly, you can run ESLint over the code in the imports/ directory with:
 
 ```
 meteor npm run lint
@@ -76,7 +82,7 @@ The landing page serves as the entry point for users, where they can log in, reg
 ### About Us Page
 The About us page offers users the opportunity to learn more about the developers behind this site. They also have the option to view each of the developers Github page and professional portfolios. 
 
-<img src="doc/AboutUsPage.png">
+<img src="doc/AboutUs.png">
 
 ### Rules and Regulations Page
 The Rules and Regulations page offers a list of rules and regulations that the users must adhere to while using StudyLink.
@@ -135,8 +141,41 @@ Administrators are greeted with a dedicated homepage upon login. This page grant
 ### Admin List Profile Page
 
 
+<<<<<<< HEAD
 <img src="doc/AdminListAllProfilePage.png">
+=======
+### Study Sesh page
+Within the study session page, users can access detailed information about scheduled study session.They can view session details, join ongoing sessions, or manage their own study groups effortlessly. 
 
+<img src="doc/AddStudySession.png">
+
+## Game mechanic page(s) (for example, a leaderboard?)
+The game mechanics page, such as the leaderboard, adds an element of gamification to the platform. It showcases user achievements, ranking, or progress, fostering engagement and healthy competition among users. 
+
+<img src="doc/Leaderboard.png">
+>>>>>>> 22e4e6b3d6b607b5e4bb24de30784e930082a7c6
+
+### Owned Study Sessions
+In this page users can view and edit study sessions which they own. 
+
+<img src="doc/OwnedStudySessions.png">
+
+## Community Feedback
+
+After having five community members try out our application, we gathered valuable insights and feedback on its usability and functionality. Here are the key findings from the feedback:<br>
+
+**Positive Feedback**:
+   - Website has good functionality and flow.
+   - Application would be useful for students.
+   - Easy on the eyes, visually appealing.
+   - Appreciates the concept of application, providing support for those seeking help.
+
+ **Possible Improvements**:
+   - Add the Rules and Regulation page into user page as well.
+   - Provide users to upload their image file(.jpeg, .png, etc) for their profile picture instead of just a link.
+   - Possibly adding a FAQ section for common asked questions of students.
+
+Overall, the responses were positive, with users appreciating the usefulness of the application as well as the visuals provided.
 
 ## Deployment
 * [Application Deployment Link](http://209.38.148.35/)
@@ -152,9 +191,9 @@ Administrators are greeted with a dedicated homepage upon login. This page grant
 
 ## Meet the Developers
 
-### [Benjamin Banilower](https://banilowben.github.io/)
-### [Andrew Gibbons](https://andrewgibbons575.github.io)
-### [Stephanie Castelblanco](https://stephanie-castelblanco.github.io/)
-### [Michelle Back](https://michelle4929.github.io/)
-### [Kelly Tam](https://ktam808.github.io/)
+* [Benjamin Banilower](https://banilowben.github.io/)
+* [Andrew Gibbons](https://andrewgibbons575.github.io)
+* [Stephanie Castelblanco](https://stephanie-castelblanco.github.io/)
+* [Michelle Back](https://michelle4929.github.io/)
+* [Kelly Tam](https://ktam808.github.io/)
 
