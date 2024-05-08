@@ -82,7 +82,7 @@ The landing page serves as the entry point for users, where they can log in, reg
 ### About Us Page
 The About us page offers users the opportunity to learn more about the developers behind this site. They also have the option to view each of the developers Github page and professional portfolios. 
 
-<img src="doc/AboutUsPage.png">
+<img src="doc/AboutUs.png">
 
 ### Rules and Regulations Page
 The Rules and Regulations page offers a list of rules and regulations that the users must adhere to while using StudyLink. 
