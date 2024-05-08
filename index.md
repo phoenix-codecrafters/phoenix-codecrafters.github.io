@@ -131,6 +131,11 @@ The game mechanics page, such as the leaderboard, adds an element of gamificatio
 
 <img src="doc/Leaderboard.png">
 
+### Owned Study Sessions
+In this page users can view and edit study sessions which they own. 
+
+<img src="doc/OwnedStudySessions.png">
+
 
 ## Deployment
 * [Application Deployment Link](http://209.38.148.35/)
