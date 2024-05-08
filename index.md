@@ -58,8 +58,7 @@ I20220529-12:09:18.453(-10)?   Creating user john@foo.com.
 ```
 
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).
-
- You can login using the credentials in settings.development.json, or else register a new account.
+You can login using the credentials in settings.development.json, or else register a new account.
 
 * Sixth, install fullcalendar to access calendar features:
 
