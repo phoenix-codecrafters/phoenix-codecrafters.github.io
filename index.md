@@ -169,6 +169,9 @@ Overall, the responses were positive, with users appreciating the usefulness of 
 ## Deployment
 * [Application Deployment Link](http://209.38.148.35/)
 
+## CI Badge
+[![ci-StudyLink](https://github.com/phoenix-codecrafters/StudyLink/actions/workflows/ci.yml/badge.svg)](https://github.com/phoenix-codecrafters/StudyLink/actions/workflows/ci.yml)
+
 ## Project Board Pages
 * [M1 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/1)
 * [M2 Project Board](https://github.com/orgs/phoenix-codecrafters/projects/2)
