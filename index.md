@@ -167,7 +167,7 @@ After having five community members try out our application, we gathered valuabl
 Overall, the responses were positive, with users appreciating the usefulness of the application as well as the visuals provided.
 
 ## Deployment
-* [Application Deployment Link](http://209.38.148.35/)
+* [Application Deployment Link](https://studylink.site/)
 
 ## CI Badge
 * [![ci-StudyLink](https://github.com/phoenix-codecrafters/StudyLink/actions/workflows/ci.yml/badge.svg)](https://github.com/phoenix-codecrafters/StudyLink/actions/workflows/ci.yml)
